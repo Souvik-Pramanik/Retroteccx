@@ -2,7 +2,8 @@
 This repository is solely purposed for SMART INDIA HACKATHON 2020
 
 
-We are Team Retroteccx working for the Problem Statement RK58 making a solutuion for bribery corruption and justice restore
+We are Team Retroteccx working for the Problem Statement RK58 making a solutuion for bribery corruption and justice restoration system.
+The team is lead by BISHAL CHOWDHURY
 
 
 PLEASE CHECK THE BRANCH LIST AS THERE ARE FIVE BRANCH'S AND THEY ARE:-
