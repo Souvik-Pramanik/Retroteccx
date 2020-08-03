@@ -1,0 +1,5 @@
+1. Download the files to a folder.
+2. Open terminal or cmd in that folder.
+3. run the following commands: 
+    a. npm install
+    b. npm start
