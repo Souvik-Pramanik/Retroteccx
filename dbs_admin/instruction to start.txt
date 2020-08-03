@@ -1,0 +1,9 @@
+link to the website: https://dbs-admin.herokuapp.com/
+
+To run localy:
+
+1. Download the files in a folder
+2. Open terminal or cmd in that folder
+3 Run the following commnads: 
+    a. yarn install
+    b. yarn start
